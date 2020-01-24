@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jagdish.repaswal/.dotnet/store/|arch|/|tfm|",
+      "/Users/jagdish.repaswal/.nuget/packages"
+    ]
+  }
+}

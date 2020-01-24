@@ -1,0 +1,11 @@
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/jagdish.repaswal/Desktop/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
